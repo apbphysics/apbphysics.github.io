@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/physics-client/precache-manifest.1e9aa3a243f76084d5e2aa0561f89072.js"
+  "/physics-client/precache-manifest.b098c925c13712f86452af30d5c8d88c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "physics-client"});
